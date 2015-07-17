@@ -1,0 +1,22 @@
+{
+  "name": "firstExpressApp",
+  "version": "1.0.0",
+  "description": "A Hello World app to begin learning Express and Strongloop",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pixelOneZero/firstExpressApp.git"
+  },
+  "author": "Michael McCarthy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pixelOneZero/firstExpressApp/issues"
+  },
+  "homepage": "https://github.com/pixelOneZero/firstExpressApp",
+  "dependencies": {
+    "express": "^4.13.1"
+  }
+}
